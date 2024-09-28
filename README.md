@@ -24,3 +24,6 @@ Bu script, FiveM QBCore frameworkü ile `ox_inventory` kullanarak, her objeye ö
 - Daha fazla özelleştirilebilir stash tipi ve slot/ağırlık seçenekleri.
 
 Bu script, objelere etkileşimli stash eklemek isteyenler için benzersiz ve güçlü bir çözüm sunar. Farklı objeler üzerinde değişken stash kapasiteleri sunarak oyun dünyanızı daha dinamik ve ilgi çekici hale getirebilirsiniz.
+
+
+Prew: https://streamable.com/xqdlcp
